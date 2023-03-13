@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
+    "vue-pixi-wrapper": "^2.3.5",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
