@@ -97,7 +97,7 @@ export default {
       this.canJump = true;
     },
     update(delta) {
-      const speed = 4;
+      const speed = 4.2;
       const gravity = 10;
       const salto = 150;
 
